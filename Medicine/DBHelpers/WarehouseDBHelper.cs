@@ -120,7 +120,7 @@ namespace Medicine.DBHelpers
                             new WarehouseModel(
                                 reader.GetGuid(0),  //id
                                 reader.GetGuid(1),  //id аптеки
-                                reader.GetString(3)));  //Название
+                                reader.GetString(2)));  //Название
                     }
                 }
             }

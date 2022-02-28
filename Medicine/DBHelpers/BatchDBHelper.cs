@@ -13,7 +13,7 @@ namespace Medicine.DBHelpers
         /// <summary>
         /// Название таблицы партий в БД
         /// </summary>
-        private const string BATCH_TABLE = "Batchs";
+        private const string BATCH_TABLE = "Batches";
 
         public BatchDBHelper(DBProvider provider)
             : base(provider)

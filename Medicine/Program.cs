@@ -9,10 +9,9 @@ namespace Medicine
 {
     class Program
     {
-        private static HelperClient Client;
         static void Main(string[] args)
         {
-            Client = new HelperClient();
+            var menu = new Menu(new HelperClient());
 
             Console.ReadKey();
         }

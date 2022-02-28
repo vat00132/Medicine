@@ -50,6 +50,8 @@
     <Compile Include="DBHelpers\ProductDBHelper.cs" />
     <Compile Include="DBHelpers\WarehouseDBHelper.cs" />
     <Compile Include="HelperClient.cs" />
+    <Compile Include="Menu.cs" />
+    <Compile Include="Messages.cs" />
     <Compile Include="Models\BatchModel.cs" />
     <Compile Include="Models\Model.cs" />
     <Compile Include="Models\PharmacyModel.cs" />
