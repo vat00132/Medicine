@@ -1,0 +1,7 @@
+C:\Users\valen\source\repos\Medicine\Medicine\bin\Debug\Medicine.exe.config
+C:\Users\valen\source\repos\Medicine\Medicine\bin\Debug\Medicine.exe
+C:\Users\valen\source\repos\Medicine\Medicine\bin\Debug\Medicine.pdb
+C:\Users\valen\source\repos\Medicine\Medicine\obj\Debug\Medicine.csprojAssemblyReference.cache
+C:\Users\valen\source\repos\Medicine\Medicine\obj\Debug\Medicine.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\Medicine\Medicine\obj\Debug\Medicine.exe
+C:\Users\valen\source\repos\Medicine\Medicine\obj\Debug\Medicine.pdb
